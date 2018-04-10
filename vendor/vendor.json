@@ -1,0 +1,127 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "eiRzLoenl7oEVCuoT+Ju/zWBlKg=",
+			"path": "github.com/armon/go-metrics",
+			"revision": "783273d703149aaeb9897cf58613d5af48861c25",
+			"revisionTime": "2018-02-21T18:27:44Z"
+		},
+		{
+			"checksumSHA1": "20Pind5XCrfZL/F0oibWfd9gotA=",
+			"path": "github.com/boltdb/bolt",
+			"revision": "fd01fc79c553a8e99d512a07e8e0c63d4a3ccfc5",
+			"revisionTime": "2018-03-02T18:00:52Z"
+		},
+		{
+			"checksumSHA1": "y+AeKVZoX0gB+DZW4Arzkb3tTVc=",
+			"path": "github.com/hashicorp/go-immutable-radix",
+			"revision": "7f3cd4390caab3250a57f30efdb2a65dd7649ecf",
+			"revisionTime": "2018-01-29T17:09:00Z"
+		},
+		{
+			"checksumSHA1": "TNlVzNR1OaajcNi3CbQ3bGbaLGU=",
+			"path": "github.com/hashicorp/go-msgpack/codec",
+			"revision": "fa3f63826f7c23912c15263591e65d54d080b458",
+			"revisionTime": "2015-05-18T23:42:57Z"
+		},
+		{
+			"checksumSHA1": "8Z637dcPkbR5HdLQQBp/9jTbx9Y=",
+			"path": "github.com/hashicorp/golang-lru/simplelru",
+			"revision": "0fb14efe8c47ae851c0034ed7a448854d3d34cf3",
+			"revisionTime": "2018-02-01T23:52:37Z"
+		},
+		{
+			"checksumSHA1": "dYIbrzGJOeDrLOivaWM0Jw8n3/Y=",
+			"path": "github.com/hashicorp/raft",
+			"revision": "a3fb4581fb07b16ecf1c3361580d4bdb17de9d98",
+			"revisionTime": "2018-02-12T22:15:04Z"
+		},
+		{
+			"checksumSHA1": "Y2PM65le0fGtiD12RaKknBscFys=",
+			"path": "github.com/hashicorp/raft-boltdb",
+			"revision": "6e5ba93211eaf8d9a2ad7e41ffad8c6f160f9fe3",
+			"revisionTime": "2017-10-10T15:18:10Z"
+		},
+		{
+			"checksumSHA1": "UXD6iorzeLXDBmLaOGYsAJ/Ls3w=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "d896508f87298565da02ed92730e7065c3de10b8",
+			"revisionTime": "2018-04-04T14:27:34Z"
+		},
+		{
+			"checksumSHA1": "IJouvCyXUNlfcSZTSRsb8B34v4E=",
+			"path": "github.com/rqlite/rqlite/auth",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "WUq2cq2M7y6kmOI1BsnoVw98iDM=",
+			"path": "github.com/rqlite/rqlite/cluster",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "EepZmU1icrF5ZPcRpVQTrHYFa8Y=",
+			"path": "github.com/rqlite/rqlite/db",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "TYnA/yL1uNZAZs+WZSJ7/5nLuP8=",
+			"path": "github.com/rqlite/rqlite/disco",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "1OO33FwZSLODOEJrAYXXu1HW6Ys=",
+			"path": "github.com/rqlite/rqlite/http",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "T9WsSGssnt864J5P22zdfOGmizs=",
+			"path": "github.com/rqlite/rqlite/store",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "u0JrVXjBMaIZIMGXaU8hbeX3WI4=",
+			"path": "github.com/rqlite/rqlite/tcp",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "SulVu6CiQMp1JMkOViBwo3Xx4uQ=",
+			"path": "github.com/rqlite/rqlite/testdata/chinook",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "IBRr7DXRp8Tfh+UpM2/7DZwYg1A=",
+			"path": "github.com/rqlite/rqlite/testdata/x509",
+			"revision": "4188c50f37852e9a17927235468cadf6238e9146",
+			"revisionTime": "2018-04-09T02:13:00Z"
+		},
+		{
+			"checksumSHA1": "UWjVYmoHlIfHzVIskELHiJQtMOI=",
+			"path": "golang.org/x/crypto/bcrypt",
+			"revision": "6a293f2d4b14b8e6d3f0539e383f6d0d30fce3fd",
+			"revisionTime": "2017-09-25T11:22:06Z"
+		},
+		{
+			"checksumSHA1": "oVPHWesOmZ02vLq2fglGvf+AMgk=",
+			"path": "golang.org/x/crypto/blowfish",
+			"revision": "6a293f2d4b14b8e6d3f0539e383f6d0d30fce3fd",
+			"revisionTime": "2017-09-25T11:22:06Z"
+		},
+		{
+			"checksumSHA1": "/DZoyfWT3pwhm2Z/lWobVsc67m0=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "1e2299c37cc91a509f1b12369872d27be0ce98a6",
+			"revisionTime": "2017-11-09T13:50:42Z"
+		}
+	],
+	"rootPath": "github.com/dahefanteng/rqlite"
+}
