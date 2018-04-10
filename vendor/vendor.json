@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "ZQJSiJXqf+iSGZaOZT/rxEG/Wf8=",
+			"path": "github.com/Bowery/prompt",
+			"revision": "94b504f42fdd503acc3b3c79ec2b517d90e0de8a",
+			"revisionTime": "2018-02-09T14:12:55Z"
+		},
+		{
 			"checksumSHA1": "eiRzLoenl7oEVCuoT+Ju/zWBlKg=",
 			"path": "github.com/armon/go-metrics",
 			"revision": "783273d703149aaeb9897cf58613d5af48861c25",
@@ -45,10 +51,52 @@
 			"revisionTime": "2017-10-10T15:18:10Z"
 		},
 		{
+			"checksumSHA1": "R6DzcBLEP0BONPpsyr+11N7xh5w=",
+			"path": "github.com/labstack/gommon/color",
+			"revision": "3bc2d333a4c30531c47051369043bcabd62ff4c0",
+			"revisionTime": "2018-03-16T17:49:44Z"
+		},
+		{
+			"checksumSHA1": "SEnjvwVyfuU2xBaOfXfwPD5MZqk=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "efa589957cd060542a26d2dd7832fd6a6c6c3ade",
+			"revisionTime": "2018-03-10T13:32:14Z"
+		},
+		{
+			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c",
+			"revisionTime": "2017-11-07T05:05:31Z"
+		},
+		{
 			"checksumSHA1": "UXD6iorzeLXDBmLaOGYsAJ/Ls3w=",
 			"path": "github.com/mattn/go-sqlite3",
 			"revision": "d896508f87298565da02ed92730e7065c3de10b8",
 			"revisionTime": "2018-04-04T14:27:34Z"
+		},
+		{
+			"checksumSHA1": "Wt3B+VyuxldXaHqtSy50Gwy27g8=",
+			"path": "github.com/mkideal/cli",
+			"revision": "a9c1104566927924fdb041d198f05617492913f9",
+			"revisionTime": "2017-03-24T15:56:50Z"
+		},
+		{
+			"checksumSHA1": "/dGz97uMuuCCAWFgNqI1Wf/pU8g=",
+			"path": "github.com/mkideal/pkg/debug",
+			"revision": "3e188c9e7ecc83d0fe7040a9161ce3c67885470d",
+			"revisionTime": "2017-05-03T15:41:53Z"
+		},
+		{
+			"checksumSHA1": "Fg4yMJny/QorwTrQWkwJXHvW3Pc=",
+			"path": "github.com/mkideal/pkg/expr",
+			"revision": "3e188c9e7ecc83d0fe7040a9161ce3c67885470d",
+			"revisionTime": "2017-05-03T15:41:53Z"
+		},
+		{
+			"checksumSHA1": "5Ir/EFpVM3UeGM1IBCUTV7CJtG0=",
+			"path": "github.com/mkideal/pkg/textutil",
+			"revision": "3e188c9e7ecc83d0fe7040a9161ce3c67885470d",
+			"revisionTime": "2017-05-03T15:41:53Z"
 		},
 		{
 			"checksumSHA1": "IJouvCyXUNlfcSZTSRsb8B34v4E=",
